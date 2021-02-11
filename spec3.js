@@ -33,7 +33,7 @@ describe('calculations', function(){
         
 
         calc.enterfirstNumber('150');
-        calc.entersecondNumber('16');
+        calc.entersecondNumber('15');
         calc.applySubtract();
         calc.goClick();
         calc.validateResult('139');

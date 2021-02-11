@@ -52,12 +52,12 @@ describe('enter name feature', function()
     {
         
         firstNumber.sendKeys(val);
-        secondNumber.sendKeys('10');
+        secondNumber.sendKeys('15');
         element(by.model('operator')).click();
         operationsub.click();
         goButton.click();
         browser.driver.sleep(3000) ;
-        expect(result.getText()).toEqual('140');
+        expect(result.getText()).toEqual('135');
         
     });
 
