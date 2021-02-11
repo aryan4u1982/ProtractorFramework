@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1612952155324' stop='1612952171583'>
+    <name>calculations</name>
+    <title>calculations</title>
+    <test-cases>
+        <test-case start='1612952155325' status='passed' stop='1612952161417'>
+            <name>Addition</name>
+            <title>Addition</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1612952161417' status='passed' stop='1612952166461'>
+            <name>Multiply</name>
+            <title>Multiply</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1612952166461' status='passed' stop='1612952171580'>
+            <name>Substract</name>
+            <title>Substract</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
