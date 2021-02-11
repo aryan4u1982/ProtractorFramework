@@ -36,7 +36,7 @@ describe('calculations', function(){
         calc.entersecondNumber('15');
         calc.applySubtract();
         calc.goClick();
-        calc.validateResult('139');
+        calc.validateResult('135');
     });
 });
 
